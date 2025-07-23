@@ -8,7 +8,11 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 
-// *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).* 
+## Projects I'm currently working on:
+
+- File converter
+- Data structure visualizer
+- Note app
 
 
 ## Get in Touch 📬
@@ -20,6 +24,8 @@
 
 <!--
 **xremy23/xremy23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+// *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).* 
 
 Here are some ideas to get you started:
 
