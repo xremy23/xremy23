@@ -27,6 +27,8 @@
 
 // *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).* 
 
+
+I should add a about self 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
