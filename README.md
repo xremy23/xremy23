@@ -29,6 +29,12 @@
 
 
 I should add a about self 
+
+projects I'm planning to do:
+- fitness tracker app
+- esports match predictor
+- esports match analysis
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
