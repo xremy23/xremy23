@@ -10,9 +10,7 @@
 
 ## Projects I'm currently working on:
 
-- File converter
-- Data structure visualizer
-- Note app
+Coming soon
 
 
 ## Get in Touch 📬
@@ -34,6 +32,9 @@ projects I'm planning to do:
 - fitness tracker app
 - esports match predictor
 - esports match analysis
+File converter
+- Data structure visualizer
+- Note app
 
 Here are some ideas to get you started:
 
