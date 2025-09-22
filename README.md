@@ -32,9 +32,13 @@ projects I'm planning to do:
 - fitness tracker app
 - esports match predictor
 - esports match analysis
-File converter
+- moba stats / powerspike(lvl,equipments), vs diff heroes, optimal route, warding, objectives, etc.
+- fps stats / positioning, offangle, map control, util, lineups, setups, rotation, gunfights
+- br stats / positioning, gunfight, movement, rotation, util
+- File converter
 - Data structure visualizer
 - Note app
+- capstone thesis
 
 Here are some ideas to get you started:
 
