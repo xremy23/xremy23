@@ -8,10 +8,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 
-## Projects I'm currently working on:
-
-Coming soon
-
 
 ## Get in Touch 📬
 - **[LinkedIn]**www.linkedin.com/in/jeremy-carino-472783315
@@ -27,6 +23,11 @@ Coming soon
 
 
 I should add a about self 
+
+
+## Projects I'm currently working on:
+
+Coming soon
 
 projects I'm planning to do:
 - fitness tracker app
